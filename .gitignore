@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+# 存储的登录状态文件（包含敏感 Cookie/Token，不要提交）
+auth/*.json
+playwright-report/
+test-results/
